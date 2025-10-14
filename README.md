@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hello! I'm Jordyn, also known as Punkish
+I'm a computer science student in Ontario, Canada.
+For as long as I can remember, I've had a passion for computers, and specifically, software development. I began my personal study of software dev when I was 15 years old, starting with Java, which wasn't retained, then finding passion within Game Development. I found interest primarily in backend development, eventually participating in a few game jams, making projects that in hind sight have a lot of room for improvement.
 
 <!--
 **PunkishDev/PunkishDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
