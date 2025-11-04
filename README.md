@@ -10,3 +10,9 @@ Recently I've been working more with web dev using JavaScript for backend server
 - **I enjoy learning, and am always striving for improvement**
 - **I am a trans woman, and strive to create an environment that feels accepting and welcoming to all**
 - **I have a passion for game design and web development projects**
+
+## \<h2>Projects\</h2>
+Speedcube Timer | [Speedcube Timer Website](https://github.com/PunkishDev/SpeedcubeTimer) - Sole developer
+
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
